@@ -1,0 +1,84 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    font-family:sans-serif;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(75, 155, 151) ;
+}
+.nav2{
+    background-color: rgb(75, 155, 151);
+}
+.nav-link{
+    color: white;
+}
+.landing-img{
+   justify-content: center;
+   position: relative;
+   left: 25rem;
+}
+.content{
+    height: 25rem;
+    width: 100%;
+    background-color: rgb(75, 155, 151) ;
+}
+.content p{
+ color: white;
+ text-align: center;
+ position: relative;
+ top: 5rem;
+}
+.about{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+span{
+    color: rgb(235, 187, 83);
+}
+.product{
+    background-color: rgb(252, 242, 223);
+    text-align: center;
+    padding-top: 3rem;
+}
+.products-card{
+    padding-top: 3rem;
+    position: relative;
+    display: flex;
+    left: 7rem;
+    padding-bottom: 3rem;
+}
+.other{
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+.f-content{
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(102, 197, 195);
+    color: white;
+    padding-left: 15rem;
+    padding-right: 15rem;
+    padding-top: 2rem;
+}
+.pages ul{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.pages ul li a{
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+}
+.copyright{
+    background-color: rgb(75, 155, 151);
+    color: white;
+    text-align: center;
+}
